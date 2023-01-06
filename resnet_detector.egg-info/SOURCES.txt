@@ -1,8 +1,15 @@
+setup.cfg
 setup.py
 resnet_detector/__init__.py
 resnet_detector/__main__.py
+resnet_detector/config.py
+resnet_detector/dataset.py
+resnet_detector/model.py
+resnet_detector/train.py
+resnet_detector/utils.py
 resnet_detector.egg-info/PKG-INFO
 resnet_detector.egg-info/SOURCES.txt
 resnet_detector.egg-info/dependency_links.txt
 resnet_detector.egg-info/entry_points.txt
+resnet_detector.egg-info/requires.txt
 resnet_detector.egg-info/top_level.txt
