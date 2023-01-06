@@ -1,0 +1,2 @@
+[console_scripts]
+resnet = resnet_detector.__main__:main
